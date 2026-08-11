@@ -69,6 +69,7 @@ p {
     font-size: 20px;
 }
 
+
 .cabecalho {
     display: flex;
     align-items: center;
@@ -92,6 +93,7 @@ p {
     color: #c51111;
     transition: 0.5s ease-in-out;
 }
+
 
 .caixa-link-whatsapp {
     position: fixed;
